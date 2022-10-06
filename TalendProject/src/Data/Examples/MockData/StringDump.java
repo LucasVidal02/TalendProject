@@ -8,5 +8,5 @@ public class StringDump {
     public static String carModel;
     public static String carPlaca;
     public static String carColor = "Red";
-    // TODO: Completar a classe com outros dados depois
+    // TODO: Completar a classe com outros dados depois.
 }
